@@ -1,0 +1,13 @@
+/* src/ImageUploader.css */
+
+.App {
+  text-align: center;
+}
+
+input {
+  margin: 20px;
+}
+
+img {
+  max-width: 100%;
+}
